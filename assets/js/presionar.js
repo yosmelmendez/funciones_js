@@ -1,5 +1,6 @@
 var color;
 let pulsar = document.getElementById("key");
+
 document.addEventListener("keydown", function (event) {
   if (event.key === "a" || event.key === "A") {
     color = "pink";

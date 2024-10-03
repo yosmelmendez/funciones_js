@@ -2,6 +2,6 @@
 //return a + b
 //}
 
-suma = (a, b) => {
+let suma = (a, b) => {
   return a + b;
 };
